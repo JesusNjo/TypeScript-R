@@ -1,0 +1,5 @@
+tsc script.ts --- Crea un JS a partir del archivo TS
+tsc script.ts -w --- Los cambios que se hagan el el TS se van al JS
+tsc -init --- Iniciar un proyecto Typescript configurado
+tsc -w --- Consigura el proyecto a modo observado para captar cambios una vez que se hizo el init
+
